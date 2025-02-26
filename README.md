@@ -14,23 +14,14 @@ Prerequisites
 Python 3.6 or higher
 Required Libraries:
 Install the necessary Python packages using pip:
-bash
-Copy
-Edit
 pip install streamlit pandas plotly
 Running the App
 Clone or download the project to your local machine.
 Navigate to the project directory.
 Run the application using Streamlit:
-bash
-Copy
-Edit
 streamlit run app.py
 Interact with the converter in your web browser.
 Project Structure
-bash
-Copy
-Edit
 ├── app.py         
 └── README.md      
 How It Works
